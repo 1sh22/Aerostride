@@ -36,3 +36,10 @@ Once the project is completed, you can deploy it to the internet and share it wi
 
 4. **Testing**: After deployment, ensure to test your website across different devices and screen sizes to ensure responsiveness and functionality.
 
+
+<img width="1440" alt="Screenshot 2024-03-08 at 9 57 09 PM" src="https://github.com/1sh22/Aerostride/assets/91171815/5af33d05-b325-4a05-88af-80329b00f173">
+
+<img width="1286" alt="Screenshot 2024-03-09 at 8 29 56 PM" src="https://github.com/1sh22/Aerostride/assets/91171815/ba16fc85-dda7-4b53-a79e-e1490788dc91">
+
+<img width="1440" alt="Screenshot 2024-03-08 at 10 00 13 PM" src="https://github.com/1sh22/Aerostride/assets/91171815/2b4a8b62-58a7-43a5-8465-a09752365989">
+
